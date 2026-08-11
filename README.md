@@ -1,4 +1,15 @@
-## Hi there 👋
+### Hi, I'm Saqib Khial 👋
+
+**AI Undergrad | Python Developer**
+
+#### 🧠 Interests
+- Machine Learning
+- Generative AI
+- Agentic AI
+- Automation
+
+#### 📫 Contact
+saqibkhial77@gmail.com
 
 <!--
 **SaqibKhial/SaqibKhial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
